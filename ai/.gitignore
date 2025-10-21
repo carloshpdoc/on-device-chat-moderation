@@ -1,0 +1,80 @@
+# Python
+*.py[cod]
+*$py.class
+*.so
+.Python
+__pycache__/
+*.egg-info/
+dist/
+build/
+*.egg
+.pytest_cache/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# ML Model Artifacts & Checkpoints
+artifacts/
+*.onnx
+*.mlmodel
+*.mlpackage/
+*.mlmodelc/
+*.h5
+*.pb
+*.pth
+*.pt
+*.ckpt
+checkpoint*/
+runs/
+lightning_logs/
+wandb/
+
+# Training Outputs
+outputs/
+logs/
+tensorboard/
+*.log
+
+# Large Datasets (uncomment if needed)
+# data/*.csv
+# data/*.parquet
+# data/*.arrow
+# data/raw/
+# data/processed/
+
+# Model Weights
+*.safetensors
+*.bin
+*.weights
+
+# macOS
+.DS_Store
+._*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment & Secrets
+.env
+.env.local
+*.key
+
+# Temporary files
+tmp/
+temp/
+*.tmp

@@ -1,0 +1,49 @@
+{
+    "maxLength": 2000,
+    "minToxicity": 0.80,
+    "categoriesThresholds": {
+        "toxicity": 0.80,
+        "insult": 0.75,
+        "hate": 0.70,
+        "sexual": 0.80,
+        "threat": 0.60,
+        "self_harm": 0.60
+    },
+    "blockedKeywords": [
+        "negócio por fora",
+        "pagar fora",
+        "passa whatsapp"
+    ],
+    "blockedRegex": [
+        "(?i)\\b(whats?app|zapzap|zap)\\b",
+        "(?i)\\b(telegram|telegra)\\b",
+        "(?i)\\b(instagram|ig)\\b",
+        "(?i)\\b(por fora|contato direto)\\b"
+    ],
+    "blockedDomains": [
+        "wa.me",
+        "api.whatsapp.com",
+        "t.me",
+        "instagram.com",
+        "facebook.com",
+        "messenger.com"
+    ],
+    "piiPatterns": {
+        "phoneBR": "(?i)(\\+55\\s?)?(\\(?\\d{2}\\)?\\s?)?(9?\\d{4})[-\\s\\.]?\\d{4}",
+        "email": "(?i)[A-Z0-9._%+-]+@[A-Z0-9.-]+\\.[A-Z]{2,}",
+        "url": "(?i)\\bhttps?://[\\w.-]+(?:/[\\w\\-./?%&=]*)?\\b",
+        "cep": "\\b\\d{5}-?\\d{3}\\b",
+        "cpf": "\\b\\d{3}\\.\\d{3}\\.\\d{3}-\\d{2}\\b|\\b\\d{11}\\b",
+        "cnpj": "\\b\\d{2}\\.\\d{3}\\.\\d{3}/\\d{4}-\\d{2}\\b|\\b\\d{14}\\b",
+        "pix": "(?i)\\b(chave\\s*pix|pix)\\b",
+        "endereco": "(?i)\\b(rua|r\\.|avenida|av\\.|estrada|rodovia|alameda|praça|travessa)\\s+[\\p{L}0-9 .'-]+\\b\\s*\\d{1,5}"
+    },
+    "offPlatformKeywords": [
+        "me chama no whatsapp",
+        "me chama no zap",
+        "me chama no telegram",
+        "me chama no insta",
+        "vamos combinar por fora",
+        "vamos fechar por fora"
+    ]
+}

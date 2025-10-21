@@ -1,0 +1,31 @@
+{"text":"Olá! Esse item ainda está disponível?","labels":{"toxicity":0,"insult":0,"hate":0,"sexual":0,"threat":0,"self_harm":0}}
+{"text":"Pode me dizer o estado de conservação? Tem nota fiscal?","labels":{"toxicity":0,"insult":0,"hate":0,"sexual":0,"threat":0,"self_harm":0}}
+{"text":"Consigo retirar hoje? Você entrega na Zona Sul?","labels":{"toxicity":0,"insult":0,"hate":0,"sexual":0,"threat":0,"self_harm":0}}
+{"text":"O preço é negociável? Posso pagar via plataforma?","labels":{"toxicity":0,"insult":0,"hate":0,"sexual":0,"threat":0,"self_harm":0}}
+{"text":"Obrigado pela resposta! Vou finalizar por aqui.","labels":{"toxicity":0,"insult":0,"hate":0,"sexual":0,"threat":0,"self_harm":0}}
+{"text":"As fotos são atuais? Tem garantia?","labels":{"toxicity":0,"insult":0,"hate":0,"sexual":0,"threat":0,"self_harm":0}}
+{"text":"Funciona direitinho? Algum detalhe para saber?","labels":{"toxicity":0,"insult":0,"hate":0,"sexual":0,"threat":0,"self_harm":0}}
+{"text":"Posso ver mais fotos da tela e da caixa?","labels":{"toxicity":0,"insult":0,"hate":0,"sexual":0,"threat":0,"self_harm":0}}
+{"text":"Esse anúncio tá uma porcaria, muito mal feito.","labels":{"toxicity":1,"insult":1,"hate":0,"sexual":0,"threat":0,"self_harm":0}}
+{"text":"Seu produto é um lixo, aprende a vender.","labels":{"toxicity":1,"insult":1,"hate":0,"sexual":0,"threat":0,"self_harm":0}}
+{"text":"Que atendimento horroroso, péssimo.","labels":{"toxicity":1,"insult":1,"hate":0,"sexual":0,"threat":0,"self_harm":0}}
+{"text":"Pare de encher, tá ridículo esse preço.","labels":{"toxicity":1,"insult":1,"hate":0,"sexual":0,"threat":0,"self_harm":0}}
+{"text":"Gente desse tipo nem devia vender aqui.","labels":{"toxicity":1,"insult":0,"hate":1,"sexual":0,"threat":0,"self_harm":0}}
+{"text":"Esse pessoal é um problema, não deveriam estar na plataforma.","labels":{"toxicity":1,"insult":0,"hate":1,"sexual":0,"threat":0,"self_harm":0}}
+{"text":"Mensagem inadequada com teor sexual, nada a ver com a venda.","labels":{"toxicity":1,"insult":0,"hate":0,"sexual":1,"threat":0,"self_harm":0}}
+{"text":"Proposta indecente fora do contexto do produto.","labels":{"toxicity":1,"insult":0,"hate":0,"sexual":1,"threat":0,"self_harm":0}}
+{"text":"Se você não baixar o preço agora, vai se ver comigo.","labels":{"toxicity":1,"insult":0,"hate":0,"sexual":0,"threat":1,"self_harm":0}}
+{"text":"Vou te denunciar e fazer você se arrepender.","labels":{"toxicity":1,"insult":0,"hate":0,"sexual":0,"threat":1,"self_harm":0}}
+{"text":"Tô me sentindo muito mal, às vezes penso em desistir de tudo.","labels":{"toxicity":1,"insult":0,"hate":0,"sexual":0,"threat":0,"self_harm":1}}
+{"text":"Isso me dá vontade de sumir, sério.","labels":{"toxicity":1,"insult":0,"hate":0,"sexual":0,"threat":0,"self_harm":1}}
+{"text":"Preço absurdo, isso é um roubo!","labels":{"toxicity":1,"insult":0,"hate":0,"sexual":0,"threat":0,"self_harm":0}}
+{"text":"Você é irresponsável, anúncio enganoso!","labels":{"toxicity":1,"insult":1,"hate":0,"sexual":0,"threat":0,"self_harm":0}}
+{"text":"Se continuar assim, vai ter problema.","labels":{"toxicity":1,"insult":0,"hate":0,"sexual":0,"threat":1,"self_harm":0}}
+{"text":"Convite inadequado, nada a ver com compra.","labels":{"toxicity":1,"insult":0,"hate":0,"sexual":1,"threat":0,"self_harm":0}}
+{"text":"Me chama no zap pra fechar mais rápido.","labels":{"toxicity":0,"insult":0,"hate":0,"sexual":0,"threat":0,"self_harm":0}}
+{"text":"Passa seu telefone que a gente resolve por fora.","labels":{"toxicity":0,"insult":0,"hate":0,"sexual":0,"threat":0,"self_harm":0}}
+{"text":"Vai no meu insta pra ver mais fotos.","labels":{"toxicity":0,"insult":0,"hate":0,"sexual":0,"threat":0,"self_harm":0}}
+{"text":"Qual o motivo da venda?","labels":{"toxicity":0,"insult":0,"hate":0,"sexual":0,"threat":0,"self_harm":0}}
+{"text":"Tem marca e modelo exatos?","labels":{"toxicity":0,"insult":0,"hate":0,"sexual":0,"threat":0,"self_harm":0}}
+{"text":"Aceita troca? Posso pagar parcelado aqui?","labels":{"toxicity":0,"insult":0,"hate":0,"sexual":0,"threat":0,"self_harm":0}}
+{"text":"Tem como testar na retirada?","labels":{"toxicity":0,"insult":0,"hate":0,"sexual":0,"threat":0,"self_harm":0}}

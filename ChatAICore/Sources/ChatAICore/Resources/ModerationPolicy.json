@@ -1,0 +1,21 @@
+{
+  "blockedKeywords": [
+    "ofensaX",
+    "palavrãoY"
+  ],
+  "blockedRegex": [
+    "(?i)\\b(sla{2,})\\b"
+  ],
+  "blockedDomains": [
+    "example-bad.com"
+  ],
+  "maxLength": 2000,
+  "minToxicity": 0.8,
+  "categoriesThresholds": {
+    "insult": 0.75,
+    "hate": 0.7,
+    "threat": 0.6,
+    "sexual": 0.8,
+    "self_harm": 0.6
+  }
+}
