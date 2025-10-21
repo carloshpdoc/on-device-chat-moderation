@@ -5,7 +5,8 @@ import PackageDescription
 let package = Package(
     name: "ChatAICore",
     platforms: [
-        .iOS(.v16)
+        .iOS(.v15),
+        .macOS(.v12)
     ],
     products: [
         .library(

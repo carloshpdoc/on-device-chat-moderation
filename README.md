@@ -60,7 +60,7 @@ on-device-chat-moderation/
 
 1. **Criar projeto iOS no Xcode**
    ```bash
-   # No Xcode: File > New > Project > App (SwiftUI, iOS 16+)
+   # No Xcode: File > New > Project > App (SwiftUI, iOS 15+)
    # Nome: ChatAIModerationDemo
    ```
 
@@ -76,7 +76,7 @@ on-device-chat-moderation/
 
 4. **Rodar no Simulator**
    ```bash
-   # Command + R (iOS 16+)
+   # Command + R (iOS 15+)
    # O app funcionará com FakeScorer (sem ML real)
    ```
 

@@ -1,12 +1,11 @@
 
 import Foundation
-import Observation
+import Combine
 
-@Observable
-public final class ChatViewModel {
-    public var input: String = ""
-    public var messages: [Message] = []
-    public var lastModerationReason: String? = nil
+public final class ChatViewModel: ObservableObject {
+    @Published public var input: String = ""
+    @Published public var messages: [Message] = []
+    @Published public var lastModerationReason: String? = nil
 
     private let moderation: ModerationServiceType
 

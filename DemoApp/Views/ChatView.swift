@@ -3,14 +3,14 @@ import SwiftUI
 import ChatAICore
 
 public struct ChatView: View {
-    @State private var vm: ChatViewModel
+    @StateObject private var vm: ChatViewModel
 
     public init() {
         let policy = ModerationService.loadPolicy()
         // Troque FakeScorer pelo seu scorer real quando tiver o .mlmodel
         let scorer = FakeScorer()
         let moderation = ModerationService(policy: policy, scorer: scorer)
-        _vm = State(initialValue: ChatViewModel(moderation: moderation))
+        _vm = StateObject(wrappedValue: ChatViewModel(moderation: moderation))
     }
 
     public var body: some View {
